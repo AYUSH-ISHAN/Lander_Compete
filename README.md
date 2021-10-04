@@ -2,6 +2,8 @@
 
 # To do :
 
+# Use of Ray -RLib  and its inbuild models and desigining policy of your own after doing some research.
+
 1. Code Models like A2C, ACCR, PPO, etc from scratch. 
 2. May be use a Lunar Lander env or something similar.
 3. Compare the outputs from these models and see the results. 
