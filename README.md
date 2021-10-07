@@ -1,7 +1,7 @@
 # RL_Models_Comparision
 
 # To do :
-
+# Do some practice of ML in C++
 # Use of Ray -RLib  and its inbuild models and desigining policy of your own after doing some research.
 (See Dev Raj repo for more references).
 
