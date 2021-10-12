@@ -1,12 +1,7 @@
 # RL_Models_Comparision
 
-# To do :
-# Do some practice of ML in C++
-# Use of Ray -RLib  and its inbuild models and desigining policy of your own after doing some research.
-(See Dev Raj repo for more references).
-
-1. Code Models like A2C, ACCR, PPO, etc from scratch. 
-2. May be use a Lunar Lander env or something similar.
-3. Compare the outputs from these models and see the results. 
-4. Use Tensorboard (Or something else) to see the live changes in accuracy Or losses. 
-5. Last but not the list. Do Something Visionary. 
+# Soon I will be uploading the Results, Analysis and Comparisions of the models. 
+ 
+ Compare the outputs from these models and see the results. 
+ Use Tensorboard (Or something else) to see the live changes in accuracy Or losses. 
+ Last but not the list. Do Something Visionary. 
