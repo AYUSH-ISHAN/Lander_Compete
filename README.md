@@ -30,7 +30,7 @@ The following are the rewards plots of the models. Above is the reward plot for 
 <h3><B>SARSA :</B></h3>
 <img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/Sarsa_reward.png" height = "400" width = "400" align="center"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/Sarsa_avg_reward.png" height = "400" width = "400" align="center"/>
 
-
+<h2>Conclusion :</h2>
 
 
 
