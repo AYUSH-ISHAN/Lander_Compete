@@ -1,6 +1,8 @@
 # Lander Compete
 
 <h2>Introduction :</h2>
+The main purpuse of this project to do some experiment on the three well knowns Reinforcement Algorithms DQN, DDPG and SARSA in terms of their learning pace,
+reward, average reward over a certain number of episodes, senstivity to the change in state and ...... # To think
 <h3>Models Used :</h3>
 <ul>
  
