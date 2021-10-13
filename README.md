@@ -24,7 +24,7 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 The following are the rewards plots of the models. Left side is the reward plot for 20 episodes while on right side we have reward averages over last 5 episodes.
 <h3><B>DDPG :</B></h3>
 <img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_reward.png" height = "450" width = "450" align="left"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_avg_reward.png" height = "450" width = "450" align="right"/>
-
+<br>
 <h3><B>DQN :</B></h3>
 <img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_reward.png" height = "450" width = "450" align="left"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_avg_reward.png" height = "450" width = "450" align="right"/>
 
