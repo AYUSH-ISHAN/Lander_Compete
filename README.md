@@ -1,4 +1,4 @@
-# RL_Models_Comparision
+# Lander Compete
 
 <h2>Introduction :</h2>
 <h3>Models Used :</h3>
