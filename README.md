@@ -21,13 +21,14 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 </ul>
 
 <h2>Results :</h2>
-The following are the rewards plots of the models. Left side is the reward plot for 20 episodes while on right side we have reward averages over last 5 episodes.
+The following are the rewards plots of the models. Above is the reward plot for 20 episodes while following that we have reward averages over last 5 episodes.
 <h3><B>DDPG :</B></h3>
-<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_reward.png" height = "400" width = "400" align="left"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_avg_reward.png" height = "400" width = "400" align="right"/>
+<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_reward.png" height = "400" width = "400" align="center"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_avg_reward.png" height = "400" width = "400" align="center"/>
 <br>
 <h3><B>DQN :</B></h3>
-<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_reward.png" height = "400" width = "400" align="left"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_avg_reward.png" height = "400" width = "400" align="right"/>
-
+<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_reward.png" height = "400" width = "400" align="center"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_avg_reward.png" height = "400" width = "400" align="center"/>
+<h3><B>SARSA :</B></h3>
+<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/Sarsa_reward.png" height = "400" width = "400" align="center"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/Sarsa_avg_reward.png" height = "400" width = "400" align="center"/>
 
 
 
