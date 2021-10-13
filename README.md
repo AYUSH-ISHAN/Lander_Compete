@@ -21,7 +21,12 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 </ul>
 
 <h2>Results :</h2>
+The following are the rewards plots of the models.
+<h3><B>DDPG :</B></h3>
+<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_reward.png" height = 450 width = 450 align="left"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DDPG_avg_reward.png" height = 450 width = 450 align="right"/>
 
+<h3><B>DQN :</B></h3>
+<img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_reward.png" height = 450 width = 450 align="left"/><img src ="https://github.com/AYUSH-ISHAN/Lander_Compete/blob/main/DQN_avg_reward.png" height = 450 width = 450 align="right"/>
 
 
 
@@ -30,7 +35,3 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 
 
  
- 
- Compare the outputs from these models and see the results. <br>
- Use Tensorboard (Or something else) to see the live changes in accuracy Or losses. <br>
- Last but not the list. Do Something Visionary. <br>
