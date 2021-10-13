@@ -3,6 +3,10 @@
 <h2>Introduction :</h2>
 The main purpuse of this project to do some experiment on the three well knowns Reinforcement Algorithms DQN, DDPG and SARSA in terms of their learning pace,
 reward, average reward over a certain number of episodes, senstivity to the change in state and ...... # To think
+
+<h3>The agent and environment :</h3>
+ The agent is this case was the lunar lander which was attempting to have a safe landing on the moon's surface. It is an OpenAI Gym whose description can be found 
+ in the link given - <a href = "https://gym.openai.com/envs/LunarLander-v2/">Lunar Lander with discete action</a> and <a href="https://gym.openai.com/envs/LunarLanderContinuous-v2/">Lunar Lander with continous action</a>.
 <h3>Models Used :</h3>
 <ul>
  
@@ -16,7 +20,7 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
  
 </ul>
 
-
+<h2>Results :</h2>
 
 
 
