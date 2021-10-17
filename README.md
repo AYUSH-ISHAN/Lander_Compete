@@ -33,7 +33,8 @@ The following are the rewards plots of the models. Above is the reward plot for 
 <h2>Conclusion :</h2>
 
 Looking at the pattern of all the three models we can say that the DDPG model is quite stable as comapred to DQN and SARSA. The reason behing this 
-could be slow and efficent learning of DDPG model by the make of 
+could be slow and efficent learning of DDPG model with the help of its model-free, off-policy actor-critic algorithm using deep function approximators that can learn policies in high dimensional, continuous action 
+spaces.
 
 
 
